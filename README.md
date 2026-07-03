@@ -2,8 +2,6 @@
 
 I am an associate degree student in cybersecurity, motivated by a drive to understand digital security and protect information systems. My journey involves learning the foundations of cybersecurity, exploring new tools and techniques, and building the skills to contribute meaningfully to the security community.
 
-![Tyler's Stats](https://github-readme-stats.vercel.app/api?username=TylerSander&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🪖 January 5 2021 I enlisted in the Army as a Wheeled Vechical Mechanic. My first duty station was Fort Bragg, North Carorlina. Then I reenlisted in August of 2024 and got station at Torii Station in Okinawa, Japan. Then in July of 2025 I was mediclly retired and moved back home. 
