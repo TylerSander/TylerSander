@@ -12,11 +12,13 @@ Cybersecurity student, U.S. Army veteran, and software developer building practi
 
 ## Featured Project
 
-### [Outfitter](https://github.com/TylerSander/outfitter)
+### [VetActivities](https://vetactivities.com)
 
-A friendly cross-platform desktop interface for operating-system package managers. Outfitter is built with Tauri, Rust, React, and TypeScript and includes account authentication, saved apps, release updates, and a companion website.
+A U.S.-based events and social platform that helps veterans discover local activities, RSVP to events, connect with other veterans, and participate in event group chats.
 
-[View the repository](https://github.com/TylerSander/outfitter) · [Visit the website](https://devoutfitter.com)
+VetActivities is built with Next.js, React, TypeScript, Tailwind CSS, Supabase, PostgreSQL, and Docker. The platform includes interactive maps, authentication, real-time features, image moderation, email delivery, and a native SwiftUI iOS app.
+
+[Visit VetActivities](https://vetactivities.com)
 
 ## Technologies
 
@@ -29,7 +31,7 @@ A friendly cross-platform desktop interface for operating-system package manager
 ## Current Focus
 
 - Expanding my cybersecurity knowledge through college coursework and hands-on labs
-- Developing and improving Outfitter
+- Developing and improving VetActivities
 - Building a home lab for networking, systems administration, and security practice
 - Learning secure development practices and practical automation
 
